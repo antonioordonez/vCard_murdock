@@ -1,0 +1,16 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iOS 8.1.1//EN
+N:Ordóñez Forero;Antonio;;;
+FN:Antonio Ordóñez Forero
+ORG:Murdock;
+EMAIL;type=INTERNET;type=WORK;type=pref:antonio@murdock.es
+TEL;type=WORK;type=VOICE;type=pref:915 457 959
+item1.ADR;type=WORK;type=pref:;;C/ Mejía Lequerica 12\n1ºdcha;Madrid;Madrid;28004;España
+item1.X-ABADR:es
+item2.URL;type=pref:http://murdock.es
+item2.X-ABLabel:_$!<HomePage>!$_
+item3.IMPP;X-SERVICE-TYPE=Skype;type=pref:skype:antonio.ordonez.forero
+item3.X-ABLabel:Skype
+X-SOCIALPROFILE;type=linkedin;x-user=http://es.linkedin.com/antonioordonez:http://www.linkedin.com/in/http%3A%2F%2Fes.linkedin.com%2Fantonioordonez
+END:VCARD
